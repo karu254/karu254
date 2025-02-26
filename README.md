@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Name: Henry Karu
 I'm a university student<br>Specialized in Software development<br>Also Specialist in Data Analysis<br>I Love python<br>
 
 
